@@ -1,0 +1,19 @@
+{
+  "name": "io.github.matheus-fsantos.dockify",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Open-Source project, to help new students to work w. docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-FSantos/dockify.git"
+  },
+  "author": "Matheus Ferreira Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Matheus-FSantos/dockify/issues"
+  },
+  "homepage": "https://github.com/Matheus-FSantos/dockify#readme"
+}
